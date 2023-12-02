@@ -9,11 +9,11 @@ body, ul {
     padding: 0;
 }
 
-/* #container {
+#container {
     max-width: 1210px;
     margin: 0 auto;
     background: #f6f6f6;
-} */
+}
 
 a {
     color: #ffcc10;
@@ -197,8 +197,4 @@ a {
 .logo1 {
     width: 430px;
     height: 250px;
-}
-.mat-img {
-    width: 662px;
-    height: 630px;
 }
